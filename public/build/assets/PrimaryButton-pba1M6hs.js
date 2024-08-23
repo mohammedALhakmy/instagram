@@ -1,0 +1,1 @@
+import{_ as e}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{o,f as r,r as n}from"./app-B8o5NAov.js";const s={},a={class:"bg-[#0095F6] hover:bg-[#2150fa] w-full rounded-lg p-1.5 text-white text-lg font-extrabold"};function c(t,l){return o(),r("button",a,[n(t.$slots,"default")])}const d=e(s,[["render",c]]);export{d as P};
